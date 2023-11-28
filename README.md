@@ -15,6 +15,9 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
+#Program to find the gcd of a num
+#Developed by: SHAIK MAHAMMAD IMRAAN
+#RegisterNumber: 23011682
 def gcd():
     import math
     gcd=math.gcd(a,b)
